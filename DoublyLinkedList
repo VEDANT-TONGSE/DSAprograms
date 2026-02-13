@@ -12,7 +12,7 @@ public:
         prev = nullptr;
     }
 };
-
+  
 class DoublyLinkedList {
 private:
     Node* head;
