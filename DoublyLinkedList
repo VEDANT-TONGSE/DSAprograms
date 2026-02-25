@@ -6,7 +6,7 @@ public:
     Node* next;
     Node* prev;
     
-    Node(int val) {
+    Node(int val) {  
         data = val;
         next = nullptr;
         prev = nullptr;
